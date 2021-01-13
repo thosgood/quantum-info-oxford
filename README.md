@@ -24,7 +24,7 @@ Class times will be uploaded here soon.
 
 ## Q&A chat room
 
-There is a chat room for this course, which can be accessed at https://matrix.to/#/!BfkFjlYcdNLkPKHmrm:matrix.org?via=matrix.org using any Matrix client, such as [Element](https://element.io/get-started) (which is free, open-source, etc. etc.), or even simply your web browser.
+There is a chat room for this course, which can be accessed [via this link](https://matrix.to/#/!BfkFjlYcdNLkPKHmrm:matrix.org?via=matrix.org) using any Matrix client, such as [Element](https://element.io/get-started) (which is free, open-source, etc. etc.), or even simply your web browser.
 Myself (Tim) and maybe some other TAs/tutors will be in the room, but you should feel free to use it to talk amongst yourselves as well.
 If there is enough demand for it, every so often I will collect together any questions that remain unanswered and send them along to Artur, who can then make a short video responding to them, as a sort of "on-demand lecture".
 
