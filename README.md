@@ -3,7 +3,7 @@
 
 ## Lecture notes
 
-The notes for this course are, if anything, overly complete, and so the intention is not for you to memorise them all.
+The notes for this course are, if anything, overly complete, and so the intention is not for you to blindly memorise them all by rote.
 A sort of "Lecture 0" is found in the introduction, which covers most of the prerequisite material that will be necessary for this course.
 There are additional exercises throughout the notes --- some of these will be repeated in the problem sheets, and some will not.
 For the classes, you are only expected to hand in the problem sheets, but if you would like to do additional exercises when it comes to revision, then we might discuss some in a revision class in Trinity term.
