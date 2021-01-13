@@ -8,7 +8,7 @@ A sort of "Lecture 0" is found in the introduction, which covers most of the pre
 There are additional exercises throughout the notes --- some of these will be repeated in the problem sheets, and some will not.
 For the classes, you are only expected to hand in the problem sheets, but if you would like to do additional exercises when it comes to revision, then we might discuss some in a revision class in Trinity term.
 
-The lecture notes are hosted at https://thosgood.com/quantum-info/book/ and are still mildly incomplete in some sections.
+The lecture notes are hosted at [thosgood.com/quantum-info/book](https://thosgood.com/quantum-info/book/), but are still mildly incomplete in some sections.
 However, all of the sections that are not yet finished are simply supplementary material (apart from Chapter 11, which is on the syllabus, and should be finished long before we get to that part of the course), and thus not really necessary when you are following this course.
 
 
