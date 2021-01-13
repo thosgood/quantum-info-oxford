@@ -1,2 +1,7 @@
-# quantum-info-oxford
-The webpage for course C7.4
+**Lecturer:** Artur Ekert
+
+## Lecture notes
+
+## Problem sheets
+
+## Class information
