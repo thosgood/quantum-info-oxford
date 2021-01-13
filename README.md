@@ -24,12 +24,12 @@ However, all of the sections that are not yet finished are simply supplementary 
 
 ## Class information
 
-Class times will be uploaded here soon.
+_Class times will be uploaded here soon._
 
 
 ## Lecture videos
 
-Information about the lecture videos will be uploaded here soon.
+_Information about the lecture videos will be uploaded here soon._
 
 
 ## Q&A chat room
