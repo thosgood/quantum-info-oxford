@@ -14,12 +14,20 @@ However, all of the sections that are not yet finished are simply supplementary 
 
 ## Problem sheets
 
-The problem sheets will be uploaded here soon.
+- [Problem sheet 1](/Exercises1.pdf)
+- [Problem sheet 2](/Exercises2.pdf)
+- [Problem sheet 3](/Exercises3.pdf)
+- [Problem sheet 4](/Exercises4.pdf)
 
 
 ## Class information
 
 Class times will be uploaded here soon.
+
+
+## Lecture videos
+
+Information about the lecture videos will be uploaded here soon.
 
 
 ## Q&A chat room
