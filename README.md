@@ -24,19 +24,19 @@ However, all of the sections that are not yet finished are simply supplementary 
 
 ## Class information
 
-_Class times will be uploaded here soon._
+All classes are listed at <https://minerva.maths.ox.ac.uk/perl/classlists.pl> (you can search for "C7.4").
 
 
 ## Lecture videos
 
-_Information about the lecture videos will be uploaded here soon._
+The lectures are split into small chunks, to hopefully make them slightly less weary to watch (and easier to navigate).
+All videos can be found at https://ox.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?embedded=1#folderID=%2233674f97-4292-4581-a880-ac3e00f7acc7%22
 
 
 ## Q&A chat room
 
-There is a chat room for this course, which can be accessed [via this link](https://matrix.to/#/!BfkFjlYcdNLkPKHmrm:matrix.org?via=matrix.org) using any Matrix client, such as [Element](https://element.io/get-started) (which is free, open-source, etc. etc.), or even simply your web browser.
-Myself (Tim) and maybe some other TAs/tutors will be in the room, but you should feel free to use it to talk amongst yourselves as well.
-If there is enough demand for it, every so often I will collect together any questions that remain unanswered and send them along to Artur, who can then make a short video responding to them, as a sort of "on-demand lecture".
+The class tutors will all be in the Microsoft Teams channel, but you should feel free to use it to talk amongst yourselves as well.
+If there is enough demand for it, every so often we will collect together any questions that remain unanswered and send them along to Artur, who can then make a short video responding to them, as a sort of "on-demand lecture".
 
 Basically, this year has been very tough for everybody, and has hit students particularly hard.
 Because of this, please do not hesitate to reach out and ask for help.
