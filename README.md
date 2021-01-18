@@ -30,7 +30,7 @@ All classes are listed at <https://minerva.maths.ox.ac.uk/perl/classlists.pl> (y
 ## Lecture videos
 
 The lectures are split into small chunks, to hopefully make them slightly less weary to watch (and easier to navigate).
-All videos can be found at https://ox.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?embedded=1#folderID=%2233674f97-4292-4581-a880-ac3e00f7acc7%22
+All videos can be found at <https://ox.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?embedded=1#folderID=%2233674f97-4292-4581-a880-ac3e00f7acc7%22>.
 
 
 ## Q&A chat room
