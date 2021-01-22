@@ -13,6 +13,8 @@ For the classes, you are only expected to hand in the problem sheets, but if you
 The lecture notes are still mildly incomplete in some sections.
 However, all of the sections that are not yet finished are simply supplementary material (apart from Chapter 11, which is on the syllabus, and should be finished long before we get to that part of the course), and thus not really necessary when you are following this course.
 
+Artur is also making some nice big one-page summaries of each lecture, and those can be found [here](https://jamboard.google.com/d/1Ub5hlpqwZpDsb5O_mOAuMqomY8_DOPYX1Q2lSfJh_Os/viewer?ts=600aa138).
+
 
 ## Problem sheets
 
