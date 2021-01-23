@@ -26,7 +26,7 @@ Artur is also making some nice big one-page summaries of each lecture, and those
 
 ## Class information
 
-All classes are listed at <https://minerva.maths.ox.ac.uk/perl/classlists.pl> (you can search for "C7.4").
+All classes are listed [on Minerva](https://minerva.maths.ox.ac.uk/perl/classlists.pl) (look for "C7.4").
 
 
 ## Lecture videos
