@@ -32,14 +32,14 @@ All classes are listed at <https://minerva.maths.ox.ac.uk/perl/classlists.pl> (y
 ## Lecture videos
 
 The lectures are split into small chunks, to hopefully make them slightly less weary to watch (and easier to navigate).
-All videos can be found at <https://ox.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?embedded=1#folderID=%2233674f97-4292-4581-a880-ac3e00f7acc7%22> or [on YouTube](https://www.youtube.com/playlist?list=PLkespgaZN4gmu0nWNmfMflVRqw0VPkCGH).
+All videos can be found [on Panopto](https://ox.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?embedded=1#folderID=%2233674f97-4292-4581-a880-ac3e00f7acc7%22) or [on YouTube](https://www.youtube.com/playlist?list=PLkespgaZN4gmu0nWNmfMflVRqw0VPkCGH).
 
 
 ## Q&A chat room
 
-The class tutors will all be in the Microsoft Teams channel, but you should feel free to use it to talk amongst yourselves as well.
+The class tutors will all be in the [Microsoft Teams channel](https://teams.microsoft.com/l/channel/19:a30b2e33f28f4b728afc264b317978ac@thread.tacv2/C7.4%20Introduction%20to%20Quantum%20Information?groupId=0b19fb03-c6c6-4421-9bd3-06fc31b4213e&tenantId=cc95de1b-97f5-4f93-b4ba-fe68b852cf91), but you should feel free to use it to talk amongst yourselves as well.
 If there is enough demand for it, every so often we will collect together any questions that remain unanswered and send them along to Artur, who can then make a short video responding to them, as a sort of "on-demand lecture".
 
 Basically, this year has been very tough for everybody, and has hit students particularly hard.
 Because of this, please do not hesitate to reach out and ask for help.
-You can email me at any time at [tim.hosgood@posteo.net](mailto:tim.hosgood@posteo.net).
+You can email me at any time at [hosgood@maths.ox.ac.uk](mailto:hosgood@maths.ox.ac.uk).
