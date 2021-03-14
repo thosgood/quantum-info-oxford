@@ -18,15 +18,20 @@ Artur is also making some nice big one-page summaries of each lecture, and those
 
 ## Problem sheets
 
-- [Problem sheet 1](/Exercises1.pdf)
-- [Problem sheet 2](/Exercises2.pdf)
-- [Problem sheet 3](/Exercises3.pdf)
-- [Problem sheet 4](/Exercises4.pdf)
+- [Sheet 1](/Exercises1.pdf) / [Solutions 1](/Solutions1.pdf)
+- [Sheet 2](/Exercises2.pdf) / [Solutions 2](/Solutions2.pdf)
+- [Sheet 3](/Exercises3.pdf) / [Solutions 3](/Solutions3.pdf)
+- [Sheet 4](/Exercises4.pdf) / [Solutions 4](/Solutions4.pdf)
 
 
-## Class information
+## Past exams
 
-All classes are listed [on Minerva](https://minerva.maths.ox.ac.uk/perl/classlists.pl) (look for "C7.4").
+- [2015](/2015-exam.pdf) / [Solutions](/2015-solutions.pdf)
+- [2016](/2016-exam.pdf) / [Solutions](/2016-solutions.pdf)
+- [2017](/2017-exam.pdf) / [Solutions](/2017-solutions.pdf)
+- [2018](/2018-exam.pdf) / [Solutions](/2018-solutions.pdf)
+- [2019](/2019-exam.pdf) / [Solutions](/2019-solutions.pdf)
+- [2020](/2020-exam.pdf) / [Solutions](/2020-solutions.pdf)
 
 
 ## Lecture videos
