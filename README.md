@@ -31,7 +31,7 @@ Artur is also making some nice big one-page summaries of each lecture, and those
 - [2017](/2017-exam.pdf) / [Solutions](/2017-solutions.pdf)
 - [2018](/2018-exam.pdf) / [Solutions](/2018-solutions.pdf)
 - [2019](/2019-exam.pdf) / [Solutions](/2019-solutions.pdf)
-- [2020](/2020-exam.pdf) / [Solutions](/2020-solutions.pdf)
+- [2020 (with solutions)](/2020-exam+solutions.pdf)
 
 
 ## Lecture videos
