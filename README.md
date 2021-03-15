@@ -18,10 +18,10 @@ Artur is also making some nice big one-page summaries of each lecture, and those
 
 ## Problem sheets
 
-- [Sheet 1](/Exercises1.pdf) / [Solutions 1](/Solutions1.pdf)
-- [Sheet 2](/Exercises2.pdf) / [Solutions 2](/Solutions2.pdf)
-- [Sheet 3](/Exercises3.pdf) / [Solutions 3](/Solutions3.pdf)
-- [Sheet 4](/Exercises4.pdf) / [Solutions 4](/Solutions4.pdf)
+- [Sheet 1](/Exercises1.pdf) / [Solutions](/Solutions1.pdf)
+- [Sheet 2](/Exercises2.pdf) / [Solutions](/Solutions2.pdf)
+- [Sheet 3](/Exercises3.pdf) / [Solutions](/Solutions3.pdf)
+- [Sheet 4](/Exercises4.pdf) / [Solutions](/Solutions4.pdf)
 
 
 ## Past exams
